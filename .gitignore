@@ -1,0 +1,11 @@
+# 忽略 obj 文件夹
+obj/
+
+# 忽略 bin 文件夹
+bin/
+
+# 忽略 .vcxproj 文件
+*.vcxproj
+
+# 忽略 .user 文件
+*.user
